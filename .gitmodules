@@ -1,0 +1,9 @@
+[submodule "tools/StarResonanceMetadata"]
+	path = tools/StarResonanceMetadata
+	url = https://github.com/rushkii/StarResonanceMetadata.git
+[submodule "tools/StarResonanceTool"]
+	path = tools/StarResonanceTool
+	url = https://github.com/PotRooms/StarResonanceTool.git
+[submodule "tools/Il2CppDumper"]
+	path = tools/Il2CppDumper
+	url = https://github.com/Perfare/Il2CppDumper
